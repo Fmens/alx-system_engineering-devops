@@ -1,5 +1,2 @@
 #!/bin/bash
-7-file='*\\'"Best School"'\\*$?*****:)'
-content="Best School"$'\n'
-
-echo "$content" > "$7-file"
+echo "Best School" > \\\*\\\\"'\"Best School\"\\'"\\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\*\:\)
